@@ -16,6 +16,7 @@ st.markdown("""
 
 st.title("🤖 RecoverAI Copilot")
 st.caption("AI-powered customer response generator")
+st.markdown('*Example: "I\'m facing financial issues right now. Can I get more time to pay my bill?"*')
 
 # Sidebar
 settings = render_sidebar()
